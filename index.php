@@ -25,7 +25,7 @@
             <div class="d-flex justify-content-center justify-content-lg-start" style="gap: 20px;">
               <a href="./about.php" class="btn-get-started hover-first">More About Us <span class="arrow-bar"><i
                     class="bi bi-arrow-right-short"></i></span></a>
-              <a href="./services.php" class="btn-get-started hover-second">Our Service</a>
+              <a href="./services.php" class="btn-get-started hover-second d-flex align-items-center">Our Service</a>
             </div>
           </div>
         </div>
